@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_df748f7155d39b10193111dbba32654a5d988db6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_a5887742b1bc6cfc5665a1fcf1bf893ac523770c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_d4b76e5931be562e90d551d080d122770d7be451.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_8f79b74adae82a8347883a94906d4d2404030bf1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_3a9b986cbc5e8c52f708de7e42822d409c3e1fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/src/main/java/okhttp-3.4.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ccde00f7ccc77af5a6d5752e2cb21f6d8998289f">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/okhttp-3.4.2_f26fdb2ccf62bedc5bca543fe0ae745193d21567.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/src/main/java/core-2.2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4ec90c6e47a29325dcfa12d50559ee9c7d66fe4a">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/core-2.2.3_92007272b7bf40f22e94e3830cf59abb7932bcd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_7e4a69fab4afa9c0264ccf9c36ce6f328b973310.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_4ae1ea3ba5c064d5e3e5528d2393096307937018.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/gson-2.7_561b5252842cb0b08bab5eecc03bec10443ae789.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_70ab57fdd73d6e3beb6af886982de0a38eb73f90.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/src/main/java/okio-1.11.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="840897fcd7223a8143f1d9b6f69714e7be34fd50">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/okio-1.11.0_cadc4dbd17babd6def4171387f0a7dc73253ce76.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/src/main/java/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/gson-2.8.0_9f5fbde9237e7adf1c91a7c779c6430d3c9f6d49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_954364a261b3180edd5646f6aef1515e9d008737.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_aa12fb7cc4ba6ed72e8698bd1768453dde2c1740.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_de18f5c3c3818d99d4f496ea33c2ce344893aaf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/.gradle/caches/modules-2/files-2.1/com.clarifai.clarifai-api2/core/2.0.2/2f2018aa773ec96511ed1570e9604c81eaca9076/core-2.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2f2018aa773ec96511ed1570e9604c81eaca9076">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/core-2.0.2_deb9129c41e5b4807731d951af792d9b22a90057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/cise/homes/rpmishra/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/cise/homes/rpmishra/AndroidStudioProjects/Lang/app/build/intermediates/pre-dexed/debug/okio-1.9.0_6f5a967794668edcf449d28a1bfe6b3f8412c39a.jar" />
+    </item>
+
+</items>

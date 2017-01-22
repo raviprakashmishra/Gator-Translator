@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Gator Trans</string>
+    <string name="hello_world">Gator Trans</string>
+
+    <string name="mtmsg">Native Language</string>
+    <string name="options">Select following options</string>
+    <string name="name">Enter  Name</string>
+    <string name="translation">Transl Language</string>
+    <string name="save">Save</string>
+    <string name="photo">Take Photo</string>
+
+    <string-array name="languages">
+        <item>Chinese</item>
+        <item>Hindi</item>
+        <item>German</item>
+        <item>French</item>
+        <item>Spanish</item>
+        <item>Urdu</item>
+
+    </string-array>
+
+    <string name="language_prompt">Choose a Language</string>
+</resources>
