@@ -4,6 +4,7 @@ import android.content.Context;
 import android.graphics.Bitmap;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
@@ -26,6 +27,8 @@ import clarifai2.dto.input.ClarifaiInput;
 import clarifai2.dto.input.image.ClarifaiImage;
 import clarifai2.dto.model.output.ClarifaiOutput;
 import clarifai2.dto.prediction.Concept;
+
+import java.io.File;
 import java.util.*;
 
 
@@ -69,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
         photoButton.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
                 Intent intent = new Intent("android.media.action.IMAGE_CAPTURE");
+               // intent.putExtra()
                 startActivityForResult(intent,CAMERA_PIC_REQUEST);
 
 
@@ -86,10 +90,11 @@ public class MainActivity extends AppCompatActivity {
         final ClarifaiClient client = new ClarifaiBuilder("OdAnq0ddscI7PZMMdoNykS8iDG2nHhulIXSjc2-7", "4lOLUgjHBl0MqZAZly_nO0ANeVZfTjeYJ6qN0P9G").buildSync();
         final byte[] imageBytes = ClarifaiUtil.retrieveSelectedImage(this, data);
         final List<ClarifaiOutput<Concept>> predictionResults;
+
         if (requestCode == CAMERA_PIC_REQUEST) {
 
            predictionResults =
-                    client.getDefaultModels().generalModel() // You can also do client.getModelByID("id") to get custom models
+                    client.getDefaultModels().generalModel()
                             .predict()
                             .withInputs(
                                     ClarifaiInput.forImage(ClarifaiImage.of(imageBytes)))
@@ -129,6 +134,10 @@ public class MainActivity extends AppCompatActivity {
         }
         intent.putExtra(LABELS, arr);
         startActivity(intent);
+    }
+
+    private void createImagePNG(){
+
     }
 
 
